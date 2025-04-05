@@ -1,10 +1,9 @@
 # Air Quality Data Analysis using MongoDB and Pandas
 
 ## 👥 Team Members
-- [Name 1]
-- [Name 2]
-- [Name 3]
-- [Name 4]
+- Bienias Kamil
+- Ecker Sebastian
+- Zakajew Turpal-Eli
 
 ## 🎯 Project Goal
 To collect, store, and analyze historical and real-time air quality data using MongoDB and basic data science tools. The goal is to explore pollution trends and demonstrate a basic MapReduce-style analysis.
